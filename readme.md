@@ -1,13 +1,13 @@
-Anomaly Detection Using AutoEncoder
+## Anomaly Detection Using AutoEncoder ##
 Overview
 This repository contains the implementation of an AutoEncoder model for anomaly detection in images. The AutoEncoder is trained to learn the normal patterns within the images, and it can detect anomalies by reconstructing the input and measuring the reconstruction error.
 
-Dataset
+# Dataset
 The dataset consists of two main categories of images:
 
 Normal Images: These images represent the standard pattern without any anomalies.
 Anomalous Images: These images contain anomalies that deviate from the normal pattern.
-Methodology
+# Methodology
 AutoEncoder Architecture
 The AutoEncoder is a neural network that consists of two main parts:
 
@@ -29,14 +29,7 @@ The following images showcase the anomalies detected by the AutoEncoder:
 
 Original Image: Description of the original image.
 Reconstructed Image: Description of the reconstructed image.
-Anomaly Details: Explanation of the detected anomaly.
-Image 2
-Image 2
-
-Original Image: Description of the original image.
-Reconstructed Image: Description of the reconstructed image.
-Anomaly Details: Explanation of the detected anomaly.
-Conclusion
+## Conclusion
 This project demonstrates the effectiveness of using AutoEncoders for anomaly detection in images. The model successfully identifies the anomalies and provides insights into the underlying patterns.
 
 Usage
