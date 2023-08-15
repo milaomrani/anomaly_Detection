@@ -22,14 +22,15 @@ Error Calculation: The reconstruction error is calculated using a metric such as
 Thresholding: A threshold is set to classify an image as anomalous if the reconstruction error is above a certain level.
 Results
 The following images showcase the anomalies detected by the AutoEncoder:
+Original Image: Description of the original image.
+Reconstructed Image: Description of the reconstructed image.
 
 ### Image 1
 
 ![Image 1 Description](anom.png)
 
-Original Image: Description of the original image.
-Reconstructed Image: Description of the reconstructed image.
-## Conclusion
+
+### Conclusion ###
 This project demonstrates the effectiveness of using AutoEncoders for anomaly detection in images. The model successfully identifies the anomalies and provides insights into the underlying patterns.
 
 Usage
