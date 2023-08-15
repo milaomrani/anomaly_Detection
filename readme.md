@@ -42,9 +42,3 @@ Reconstructed Image: Description of the reconstructed image.
 
 ### Conclusion ###
 This project demonstrates the effectiveness of using AutoEncoders for anomaly detection in images. The model successfully identifies the anomalies and provides insights into the underlying patterns.
-
-Usage
-Instructions on how to run the code, dependencies, etc.
-
-License
-Include licensing information if applicable.
