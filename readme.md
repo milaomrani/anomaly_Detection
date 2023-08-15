@@ -23,8 +23,9 @@ Thresholding: A threshold is set to classify an image as anomalous if the recons
 Results
 The following images showcase the anomalies detected by the AutoEncoder:
 
-Image 1
-Image 1
+### Image 1
+
+![Image 1 Description](anom.png)
 
 Original Image: Description of the original image.
 Reconstructed Image: Description of the reconstructed image.
