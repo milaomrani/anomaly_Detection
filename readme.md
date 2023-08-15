@@ -27,7 +27,7 @@ Original Image: Description of the original image.
 Reconstructed Image: Description of the reconstructed image.
 
 ### Threshold
-<img src="Images\thersh.png" alt="Image 3" width="260"/>
+<img src="Images\thresh.png" alt="Image 3" width="260"/>
 
 ### Image Rresult from ALIBI-DETECT LIB after 100 training epoch
 <img src="Images\ae1.png" alt="Image 2" width="360"/>
