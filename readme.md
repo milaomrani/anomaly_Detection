@@ -27,13 +27,10 @@ Original Image: Description of the original image.
 Reconstructed Image: Description of the reconstructed image.
 
 ### Threshold
-![Image 2 Description](Images\thresh.png)
+<img src="Images\thresh.png" alt="Image 3" width="360"/>
 
-### Image Rresult from ALIBI-DETECT LIB after 100 training epoch
-![Image 1 Description](Images\ae1.png)
-
-
-### Image Rresult from AE
+### Image Rresult after 100 training epoch
+<img src="Images\ae1.png" alt="Image 2" width="360"/>
 
 <img src="Images\2_1.png" alt="Image 1" width="260"/> <img src="Images\2_2.png" alt="Image 2" width="260"/>
 
@@ -42,9 +39,3 @@ Reconstructed Image: Description of the reconstructed image.
 
 ### Conclusion ###
 This project demonstrates the effectiveness of using AutoEncoders for anomaly detection in images. The model successfully identifies the anomalies and provides insights into the underlying patterns.
-
-Usage
-Instructions on how to run the code, dependencies, etc.
-
-License
-Include licensing information if applicable.
