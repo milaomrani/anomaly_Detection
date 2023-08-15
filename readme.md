@@ -8,6 +8,7 @@ The dataset consists of two main categories of carpet images taken from MVTec:
 <img src="Images\tmp.png" alt="Image 3" width="360"/>
 
 Normal Images: These images represent the standard pattern without any anomalies.
+
 Anomalous Images: These images contain anomalies that deviate from the normal pattern.
 
 ### Methodology
