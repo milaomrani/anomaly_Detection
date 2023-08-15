@@ -30,7 +30,7 @@ Reconstructed Image: Description of the reconstructed image.
 <img src="Images\thresh.png" alt="Image 3" width="360"/>
 
 ### Image Rresult after 100 training epoch
-<img src="Images\ae1.png" alt="Image 2" width="360"/>
+<img src="Images\ae1.png" alt="Image 2" width="520"/>
 
 <img src="Images\2_1.png" alt="Image 1" width="260"/> <img src="Images\2_2.png" alt="Image 2" width="260"/>
 
